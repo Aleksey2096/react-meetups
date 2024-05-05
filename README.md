@@ -1,3 +1,19 @@
+# React Meetups
+
+## Screenshots of Main Functionality
+
+### Main Page (All Meetups):
+
+![all-meetups-page]
+
+### Add New Meetup Page:
+
+![add-new-meetup-page]
+
+### My Favorites Page:
+
+![my-favorites-page]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +84,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[all-meetups-page]:project-info/all_meetups_page.png
+
+[add-new-meetup-page]:project-info/add_new_meetup_page.png
+
+[my-favorites-page]:project-info/my_favorites_page.png
